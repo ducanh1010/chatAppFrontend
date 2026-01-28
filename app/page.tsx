@@ -33,7 +33,7 @@ export default function HomePage() {
   ];
 
   const handleLogin = () => {
-    window.location.href = '/login-register';
+    window.location.href = '/login';
   };
 
   const handleRegister = () => {
